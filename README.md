@@ -73,7 +73,9 @@ Tämä on harjoitustyö, jossa käytetään FreeRTOS-käyttöjärjestelmää ja 
 - Lataa tämä repository GitHubista:
   ```bash
   git clone https://github.com/kayttaja/freeRTOS-DHT11-project.git
-  ![WhatsApp-Kuva 2024-11-25 klo 10 40 53_edfc680c](https://github.com/user-attachments/assets/b512f5a0-9d48-49e3-8d6a-8391a530a073)
-  ![WhatsApp-Kuva 2024-11-25 klo 10 40 53_aeaf4c23](https://github.com/user-attachments/assets/077c3b40-8670-4a5c-92e7-0d01a0c2bc92)
+  
+ 
+![lampotila1](https://github.com/user-attachments/assets/61981027-1deb-4738-a5dd-0b45cb45ebc1)
+![lampotila](https://github.com/user-attachments/assets/88273c51-3a37-4bdf-a9a0-103e83d67df9)
 
 
